@@ -16,7 +16,7 @@ glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:true
 gamma:0.5
-graphicsMode:0
+graphicsMode:1
 guiScale:2
 maxFps:90
 inactivityFpsLimit:"afk"
@@ -24,7 +24,7 @@ mipmapLevels:4
 narrator:0
 particles:1
 reducedDebugInfo:false
-renderClouds:"true"
+renderClouds:false
 renderDistance:16
 simulationDistance:5
 screenEffectScale:0.5

@@ -286,7 +286,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8ac363087dbeeff0cddd42d1003ddf67af02ec2d680758526809ca61dcb2b2bd"
+hash = "471e0fdfc05393602658d6c8870fdca00f59b35da2f1bb135162dfd34d5a676b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -651,4 +651,13 @@ metafile = true
 [[files]]
 file = "resourcepacks/sparkles.pw.toml"
 hash = "e86dba2a5206dc7206d5aa16678ba3ccaf1bc9dbbfe2cacbeb9bf6d971138878"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
+hash = "1d07ab91190d6dcff74900a3f4a56c03dc70504e7917f87eac3b685b429b0671"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
 metafile = true

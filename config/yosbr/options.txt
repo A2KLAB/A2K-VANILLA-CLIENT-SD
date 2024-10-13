@@ -49,8 +49,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.9.2.zip","file/BetterVanillaBuildingV3.5.zip","file/EvenBetterEnchants_v2_r1.zip","file/Chat Reporting Helper.zip","minecraft:supporteatinganimation"]
-incompatibleResourcePacks:["appleskin","fog","modernfix","mru","sodiumleafculling","sodiumoptionsapi","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.9.2.zip","file/BetterVanillaBuildingV3.5.zip","file/EvenBetterEnchants_v2_r1.zip","file/Chat Reporting Helper.zip","minecraft:supporteatinganimation","file/Sparkles_1.21_v1.0.7.zip"]incompatibleResourcePacks:["appleskin","fog","modernfix","mru","sodiumleafculling","sodiumoptionsapi","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:
 lang:fr_fr
 chatVisibility:0

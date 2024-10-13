@@ -1,0 +1,13 @@
+name = "AutoSwitch"
+filename = "autoswitch-9.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uSdcnlts/versions/N7nwc5NX/autoswitch-9.1.1.jar"
+hash-format = "sha512"
+hash = "83a620c8910eb1f4ec549b9a25eef7fdb5f2b91e6c0b2c7c35a723d7f655220a322c829f0b6a4112e7fd057aaca3c669a66b6ca544685ebe53b78ba706d8bfb9"
+
+[update]
+[update.modrinth]
+mod-id = "uSdcnlts"
+version = "N7nwc5NX"

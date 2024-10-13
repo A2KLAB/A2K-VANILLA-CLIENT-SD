@@ -13,8 +13,12 @@ file = "config/yosbr/config/badoptimizations.txt"
 hash = "e4c10b3f19974750e3d1371c35f7d22c6181a6b07e349398f12f5108e4c798e4"
 
 [[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "560669358709a3f36318719114c467de51caa25885b19d4c2072a212cef1d988"
+
+[[files]]
 file = "config/yosbr/config/bobby.conf"
-hash = "fd2ae10462217bffed6c657e2ea07765453fd4a8411bc98ecfd2871a5a296292"
+hash = "0ef84a333723b764368ecd51aaf8983f75812003b4c3e55427c8ad30ad0b1fdb"
 
 [[files]]
 file = "config/yosbr/config/citresewn-defaults.json"
@@ -266,7 +270,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b61e6a065c30d97a31019d3b94d1147af221e03a187ae07754e235df7a1c7d99"
+hash = "b5907b6f1c449a4649af93c9d83e1800fe1b254b3f2ca5b6dd15866d0ef76f06"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -624,6 +628,16 @@ hash = "e86dba2a5206dc7206d5aa16678ba3ccaf1bc9dbbfe2cacbeb9bf6d971138878"
 metafile = true
 
 [[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
+metafile = true
+
+[[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
 hash = "0cc19c395a702367e428fc03b6c54a3d2177e2f0f32ed5ba483ac58e19233e76"
+metafile = true
+
+[[files]]
+file = "shaderpacks/renderpearl.pw.toml"
+hash = "8e6b1898b886bdebd717ba7ebb5b4563abeb0630e4d72e01dc4b558873cfef00"
 metafile = true

@@ -265,12 +265,28 @@ file = "config/yosbr/config/voicechat/voicechat-volumes.properties"
 hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "3b666e72d00454a1cc0e5d98df1de29930263fc6ef5e0dc8e19113535830cc85"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "2e91a064f993cd23a05b8821ab89414b11ce793fb287d1413e7d7e2102fa556b"
+
+[[files]]
+file = "config/yosbr/config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/yosbr/config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b5907b6f1c449a4649af93c9d83e1800fe1b254b3f2ca5b6dd15866d0ef76f06"
+hash = "af98f618a263b13cbfd01d8da16f9e8ca55c3ed3b85ed31a6289e4df9b8bd2e2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -593,6 +609,11 @@ hash = "39426bfeeab22ea17f94fd3904dd9b78f9a3c9b4ddcb732b734ddbfd0e3568af"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "81a0c59e2345c142bd07b2fc792ba39b7d7a0a5b0ed0b74a0ca1aca827822b1c"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "a7dfd31be81fce18191a5468bf24a04dff7275062d9f285e3b52eec771157390"
 metafile = true
@@ -628,16 +649,10 @@ hash = "e86dba2a5206dc7206d5aa16678ba3ccaf1bc9dbbfe2cacbeb9bf6d971138878"
 metafile = true
 
 [[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
+hash = "a67c7bc4a8437d43b8e918637397ca5667bfb42c95cb1be88ee8c1010bf3666b"
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
-metafile = true
-
-[[files]]
-file = "shaderpacks/miniature-shader.pw.toml"
-hash = "0cc19c395a702367e428fc03b6c54a3d2177e2f0f32ed5ba483ac58e19233e76"
-metafile = true
-
-[[files]]
-file = "shaderpacks/renderpearl.pw.toml"
-hash = "8e6b1898b886bdebd717ba7ebb5b4563abeb0630e4d72e01dc4b558873cfef00"
 metafile = true

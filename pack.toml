@@ -1,4 +1,4 @@
-name = "A2K-VANILLA-CLIENT"
+name = "A2K-VANILLA-CLIENT-SD"
 author = "A2KLAB"
 version = "1.2.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e289946d3814a460c4cab81b84b169e57c14c205175277911943f93c4f255e38"
+hash = "6464144d3b8aa0473343e60d9d8b0b70dfb210cfb71a6ae0a5b6d30af6bf76d4"
 
 [versions]
 fabric = "0.16.14"

@@ -5,12 +5,40 @@ file = "README.MD"
 hash = "61aca620f38929ecd9f02d45fc3ac5d9979754e6040bf9295731284514db340d"
 
 [[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "560669358709a3f36318719114c467de51caa25885b19d4c2072a212cef1d988"
+
+[[files]]
 file = "config/yosbr/config/bobby.conf"
-hash = "c1c410217d8d303226b7944983359db758a9d28eec0087e34e7f79eecae0e97e"
+hash = "0ef84a333723b764368ecd51aaf8983f75812003b4c3e55427c8ad30ad0b1fdb"
+
+[[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "fe6c7ceb32ea2652120d4c1fdb54696d7f98e1d73ae8b8fd3446d2630c58570f"
 
 [[files]]
 file = "config/yosbr/config/fog/config.json"
 hash = "c732dc6fe1418844dbbe794ad8a94cd5016b8d8072a456721154ba2851478925"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "812c4614ad1ec43f05288dea622f8627eb7ace96eaa89edcec53c0681ecb0f5a"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "588749d365f1ecc26aba61134a27941f777e058d4d1f78a3182f455a71c480b8"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "68cea5942645103f12d816256ca38c94bf6affdd2678811e6db85dfa348884af"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "9b377d7bcd480d405dd7f44f55fe6d2a46ad608755fce00c6f4bd60dde403500"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "0e0f40ead7efa5ee35e5ba8d6a9fe8df4352813d4635d38c7a27ae4e313950e2"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap-common.txt"
@@ -18,23 +46,19 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "b79c2e018fbe5ec437de6b37fc0aec105d542e4459b196fc85b9718acf0e9525"
+hash = "3b666e72d00454a1cc0e5d98df1de29930263fc6ef5e0dc8e19113535830cc85"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "6a25a2eb8fffdd349eade208643bf7f1dc155cb1df7e4e746249383de3530991"
+hash = "2e91a064f993cd23a05b8821ab89414b11ce793fb287d1413e7d7e2102fa556b"
 
 [[files]]
-file = "config/yosbr/config/xaeroworldmap-common.txt"
-hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
-
-[[files]]
-file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "dcb6bfc47c4b6550e63142182649f2c4d125e0a2c2a30c1fd56cae7c3be90e52"
+file = "config/yosbr/config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9ef66003f97aa41e58cf89b17c6a1e27567981bffac4234f9f929b120ad90852"
+hash = "99b38beacf71f9d435c9082185884e98944a6733f1c077bc1a16c663526b2795"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -49,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
+metafile = true
+
+[[files]]
+file = "mods/autoswitch.pw.toml"
+hash = "1092ac1ed8e8c47dcbd48c2f2ebd54288f88d97c3a04a3c0ec0121c88815926d"
 metafile = true
 
 [[files]]
@@ -392,11 +421,6 @@ hash = "130159e2b3734e4013e2ad5040e6a80b14a004d75a921dc24633d906636500e8"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "3556431e076004f61282c316088b95bb99f8c26136c1f2aee4fc1577f33479dc"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "76d79c4c09c4b862ce82cc0cfee5ee4f01222c1968586ba68d9435767aecfcd8"
 metafile = true
@@ -438,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
-hash = "1d07ab91190d6dcff74900a3f4a56c03dc70504e7917f87eac3b685b429b0671"
+hash = "a67c7bc4a8437d43b8e918637397ca5667bfb42c95cb1be88ee8c1010bf3666b"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
